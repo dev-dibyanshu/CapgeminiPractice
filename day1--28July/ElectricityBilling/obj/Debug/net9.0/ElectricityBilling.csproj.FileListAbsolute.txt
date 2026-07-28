@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/bin/Debug/net9.0/ElectricityBilling
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/bin/Debug/net9.0/ElectricityBilling.deps.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/bin/Debug/net9.0/ElectricityBilling.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/bin/Debug/net9.0/ElectricityBilling.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/bin/Debug/net9.0/ElectricityBilling.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/refint/ElectricityBilling.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ElectricityBilling.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ElectricityBilling/obj/Debug/net9.0/ref/ElectricityBilling.dll

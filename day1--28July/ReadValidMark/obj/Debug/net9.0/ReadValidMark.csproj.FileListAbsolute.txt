@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/bin/Debug/net9.0/ReadValidMark
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/bin/Debug/net9.0/ReadValidMark.deps.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/bin/Debug/net9.0/ReadValidMark.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/bin/Debug/net9.0/ReadValidMark.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/bin/Debug/net9.0/ReadValidMark.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/refint/ReadValidMark.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ReadValidMark.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/day1--28July/ReadValidMark/obj/Debug/net9.0/ref/ReadValidMark.dll
