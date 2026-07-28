@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/bin/Debug/net8.0/RetailStoreBilling
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/bin/Debug/net8.0/RetailStoreBilling.deps.json
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/bin/Debug/net8.0/RetailStoreBilling.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/bin/Debug/net8.0/RetailStoreBilling.dll
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/bin/Debug/net8.0/RetailStoreBilling.pdb
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.dll
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/refint/RetailStoreBilling.dll
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.pdb
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/RetailStoreBilling.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/newCapgemini/day1--28July/RetailStoreBilling/obj/Debug/net8.0/ref/RetailStoreBilling.dll
