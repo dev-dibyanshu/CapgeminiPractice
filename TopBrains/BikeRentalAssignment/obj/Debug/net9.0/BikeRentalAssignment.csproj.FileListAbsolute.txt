@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/bin/Debug/net9.0/BikeRentalAssignment
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/bin/Debug/net9.0/BikeRentalAssignment.deps.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/bin/Debug/net9.0/BikeRentalAssignment.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/bin/Debug/net9.0/BikeRentalAssignment.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/bin/Debug/net9.0/BikeRentalAssignment.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/refint/BikeRentalAssignment.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/BikeRentalAssignment.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/BikeRentalAssignment/obj/Debug/net9.0/ref/BikeRentalAssignment.dll
