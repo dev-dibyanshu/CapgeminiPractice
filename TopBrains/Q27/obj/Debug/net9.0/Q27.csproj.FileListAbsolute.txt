@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/bin/Debug/net9.0/Q27
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/bin/Debug/net9.0/Q27.deps.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/bin/Debug/net9.0/Q27.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/bin/Debug/net9.0/Q27.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/bin/Debug/net9.0/Q27.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/refint/Q27.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/Q27.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/Q27/obj/Debug/net9.0/ref/Q27.dll
