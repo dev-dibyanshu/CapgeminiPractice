@@ -1,0 +1,15 @@
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/bin/Debug/net9.0/LibManagement
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/bin/Debug/net9.0/LibManagement.deps.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/bin/Debug/net9.0/LibManagement.runtimeconfig.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/bin/Debug/net9.0/LibManagement.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/bin/Debug/net9.0/LibManagement.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.AssemblyInfoInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.AssemblyInfo.cs
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.csproj.CoreCompileInputs.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.sourcelink.json
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/refint/LibManagement.dll
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.pdb
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/LibManagement.genruntimeconfig.cache
+/Users/devdibyanshu/Desktop/Code/CapgeminiPractice/TopBrains/LibManagement/obj/Debug/net9.0/ref/LibManagement.dll
